@@ -1,10 +1,10 @@
 <h3>Hi,I'm Matvii👋🏻</h3>
 
-🔭 Working on building my coding skills and developing software
+📈 Actively enhancing my coding abilities and software engineering knowledge
 
-🌱 Learning new programming languages and frameworks
+📚 Learning modern programming languages and frameworks
 
-🤔 Always looking for ways to improve and grow as a developer
+🎯 Focused on continuous improvement and professional growth in tech
 
 📫 Reach me at: shalenyi.matviy@gmail.com
 
