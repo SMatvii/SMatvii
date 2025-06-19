@@ -33,3 +33,6 @@ I'm passionate about technology, coding, and building meaningful software. Every
 ---
 [![](https://visitcount.itsvg.in/api?id=SMatvii&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+![snake gif](https://github.com/SMatvii/SMatvii/blob/output/github-snake-dark.svg)
+
