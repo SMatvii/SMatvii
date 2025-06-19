@@ -2,14 +2,11 @@
 
 Hi there, I'm Matvii! 👋🏻
 ---
-
 ## 🚀 Who Am I?
 
 I'm passionate about technology, coding, and building meaningful software. Every day, I strive to expand my knowledge and improve my skills as a software engineer.
-
 ---
 ## 💡 What I'm Doing
-
 - **Sharpening My Coding Skills:**  
   Constantly working on real-world projects and challenges to become a more proficient developer.
 
@@ -18,12 +15,9 @@ I'm passionate about technology, coding, and building meaningful software. Every
 
 - **Committed to Growth:**  
   Focused on continuous self-improvement, professional development, and contributing to the tech community.
-
 ---
 ## 📫 How to Reach Me
-
 - **Email:** shalenyi.matviy@gmail.com
-
 ---
 
 # 💻 Tech Stack:
