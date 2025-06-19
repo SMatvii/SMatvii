@@ -2,7 +2,7 @@
 
 Hi there, I'm Matvii! 👋🏻
 ---
-## 🚀 Who Am I?
+## Who Am I?
 
 I'm passionate about technology, coding, and building meaningful software. Every day, I strive to expand my knowledge and improve my skills as a software engineer.
 ---
