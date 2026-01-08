@@ -29,8 +29,3 @@ I'm passionate about technology, coding, and building projects. Every day, I str
 
 ![snake gif](https://github.com/SMatvii/SMatvii/blob/output/github-snake-dark.svg)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SMatvii&theme=aura&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=SMatvii&icon=0&color=0)](https://visitcount.itsvg.in)
